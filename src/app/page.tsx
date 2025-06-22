@@ -16,7 +16,7 @@ function page() {
       <HeroSection/>
     {/*________________ thr page_____________ */}
       <About/>
-      <ImageCarousel/>
+      {/* <ImageCarousel/> */}
     </>
   )
 }
