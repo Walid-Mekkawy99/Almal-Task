@@ -34,5 +34,6 @@ export const Navigation: React.FC = () => {
         Contact us
       </a>
     </nav>
+      
   );
 };

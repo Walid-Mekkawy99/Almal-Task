@@ -8,7 +8,7 @@ import { ScrollIndicator } from './ScrollIndicator';
 
 export const HeroLanding: React.FC = () => {
   return (
-    <main className="overflow-hidden relative w-screen h-screen">
+    <main id="home" className="overflow-hidden relative w-screen h-screen">
       <BackgroundEffects />
       <Navigation />
       <HeroContent />

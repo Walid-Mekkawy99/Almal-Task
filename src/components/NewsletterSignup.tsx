@@ -11,7 +11,7 @@ export const NewsletterSignup: React.FC = () => {
   };
 
   return (
-    <section className="absolute left-2/4 h-14 -translate-x-2/4 top-[573px] w-[405px] max-md:top-[520px] max-sm:top-[420px] max-sm:w-[90%]">
+    <section className="absolute left-2/4 h-14 -translate-x-2/4 top-[400px] w-[405px] max-md:top-[520px] max-sm:top-[420px] max-sm:w-[90%]">
       <form onSubmit={handleSubmit} className="relative">
         <div>
           <div

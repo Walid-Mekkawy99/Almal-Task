@@ -14,9 +14,9 @@ const poppins = Poppins({
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Weather App',
-  description: 'Next.js + Tailwind Starter',
-}
+  title: "Almal-task",
+  description: "Next.js + Tailwind Starter",
+};
 
 export default function RootLayout({
   children,

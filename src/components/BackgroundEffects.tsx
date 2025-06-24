@@ -20,7 +20,7 @@ export const BackgroundEffects: React.FC = () => {
       <img
         src="https://cdn.builder.io/api/v1/image/assets/TEMP/9efa9bf959f1e629ef791d9dbb6448d9d2f81eaf?placeholderIfAbsent=true"
         alt="Vector 2101"
-        className="absolute bottom-0 left-0 w-full fill-gray-900 h-[423px]"
+        className="absolute bottom-0 left-0 w-full fill-gray-900 h-[400px]"
       />
       <img
         src="https://cdn.builder.io/api/v1/image/assets/TEMP/3b81c0f48fdaec49e6170c144506b576b2244bcb?placeholderIfAbsent=true"
